@@ -1,4 +1,4 @@
-![MasterHead](https://static.vecteezy.com/system/resources/previews/001/410/877/non_2x/programming-and-coding-futuristic-banner-vector.jpg)
+
 <h1 align="center">Hi 👋, I'm Biplab Sutradhar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="center">
