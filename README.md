@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Biplab a developer passionate about building creative, impactful products</h1>
-<p>A passionate developer from India</p>
+<h4>A passionate developer from India</h4>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
@@ -39,7 +39,9 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/https://x.com/BiplabSutr79120" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/biplab-sutradhar/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=biplab-sutradhar&show_icons=true&locale=en" alt="biplab-sutradhar" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biplab-sutradhar&" alt="biplab-sutradhar" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=biplab-sutradhar&show_icons=true&locale=en&layout=compact" alt="biplab-sutradhar" /></p>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=biplab-sutradhar&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biplab-sutradhar" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=biplab-sutradhar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</div>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biplab-sutradhar" alt="biplab-sutradhar" /></a></p>
