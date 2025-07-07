@@ -41,7 +41,8 @@
 <a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/biplab-sutradhar/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 5px;">
   <img src="https://github-readme-stats.vercel.app/api?username=biplab-sutradhar&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biplab-sutradhar" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=biplab-sutradhar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biplab-sutradhar" alt="GitHub Streak" />
+  
 </div>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biplab-sutradhar" alt="biplab-sutradhar" /></a></p>
